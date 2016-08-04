@@ -1,0 +1,30 @@
+_repo: Famous-Affinities-of-History--The-Romance-of-Devotion.-Volume-1_4689
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Orr, Lyndon
+    gutenberg_agent_id: '1548'
+    url: http://www.gutenberg.org/2009/agents/1548
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+- !lcsh 'Love'
+- !lcsh 'Women -- Biography'
+- GITenberg
+tableOfContents: The story of Antony and Cleopatra -- Abélard and Héloïse -- Queen
+  Elizabeth and the Earl of Leicester -- Mary Queen of Scots and Lord Bothwell --
+  Queen Christina of Sweden and the Marquis Monaldeschi -- King Charles II and Nell
+  Gwyn -- Maurice of Saxony and Adrienne Lecouvreur -- The story of Prince Charles
+  Edward Stuart.
+title: 'Famous Affinities of History: The Romance of Devotion. Volume 1'
+url: http://www.gutenberg.org/ebooks/4689
