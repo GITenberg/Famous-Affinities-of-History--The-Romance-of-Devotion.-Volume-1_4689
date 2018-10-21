@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            http://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <pgterms:ebook rdf:about="ebooks/4689">
+    <dcterms:tableOfContents>The story of Antony and Cleopatra -- Abélard and Héloïse -- Queen Elizabeth and the Earl of Leicester -- Mary Queen of Scots and Lord Bothwell -- Queen Christina of Sweden and the Marquis Monaldeschi -- King Charles II and Nell Gwyn -- Maurice of Saxony and Adrienne Lecouvreur -- The story of Prince Charles Edward Stuart.</dcterms:tableOfContents>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4689/4689-h.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-23T20:55:54</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N6de23ea4746f48b192113ce82ea86a69">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86608</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4ce7722c6f9c459ea53c122a65b90202">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4689/4689.txt">
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-23T20:47:34</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217800</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N0e4b3c5ecf574831a8bf2681c537491a">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/1548">
+        <pgterms:name>Orr, Lyndon</pgterms:name>
+      </pgterms:agent>
+    </dcterms:creator>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd8b7934a78644f3fa1091139f1709b57">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>CT</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>Famous Affinities of History: The Romance of Devotion. Volume 1</dcterms:title>
+    <dcterms:type>
+      <rdf:Description rdf:nodeID="Nb77c4c8fbe7b474fa4a70a3625e26e23">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/DCMIType"/>
+        <rdf:value>Text</rdf:value>
+      </rdf:Description>
+    </dcterms:type>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.txt.utf-8">
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217772</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N9f01dc0a390340cc8b835c42105200b2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:37:15.592124</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N3e158c4e65a64859af65a0fb0c4fd0d2">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nd6ce1666eb84474694bb212b766a26a0">
+        <rdf:value>Women -- Biography</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.rdf">
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11885</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N3430c38e48ab42499e30472772d29282">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-13T05:03:25.134821</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4689/4689.zip">
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc54d8d15d180412aa9c86c354cca0879">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-23T20:55:52</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfcde0c7da66a4960ab9973e29949b7a2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85215</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.kindle.noimages">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N08a7f0bee4c241bfaa71d48b3558854f">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384512</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:37:17.472062</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.epub.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91885</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2c1b402046254c8ea3d53fee67ae0207">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:37:15.827096</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2003-11-01</dcterms:issued>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N5ee1370afb01447694bc1562352107f5">
+        <rdf:value>Love</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.epub.noimages">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91884</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:37:15.953088</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5b4ce81ef4be4ba2a29af3f580e15ee2">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/ebooks/4689.kindle.images">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N79bf945f9dc4459bb44d49db1ab3774e">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">384661</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-09-03T01:37:16.709074</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</pgterms:downloads>
+    <pgterms:bookshelf>
+      <rdf:Description rdf:nodeID="Ne98c94b6488f4c35b1c40b4ceb79b970">
+        <rdf:value>Biographies</rdf:value>
+        <dcam:memberOf rdf:resource="2009/pgterms/Bookshelf"/>
+      </rdf:Description>
+    </pgterms:bookshelf>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N5e32f060814648e587367b096b151cf2">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Biography</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="http://www.gutenberg.org/files/4689/4689-h/4689-h.htm">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">225725</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/4689"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2009-08-23T20:47:40</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne98ecfa8686f4eb596d2895abcf624f2">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html; charset=iso-8859-1</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+  </pgterms:ebook>
+</rdf:RDF>
